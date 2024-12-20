@@ -1,6 +1,6 @@
 <div align="center">
 
-[atabook](https://aeon.atabook.org) ![](https://64.media.tumblr.com/7723e883ed36b472998626006b7764a9/7c077bef8cc98d79-87/s75x75_c1/523fc40a2dd127d7448665e14f7d19478b19299f.gifv)  [about me](https://aeon.crd.co/) <br>
+[atabook](https://aeon.atabook.org) ![](https://wilardo.crd.co/assets/images/gallery28/17757ede.png?v=f2364dd6)  [about me](https://aeon.crd.co/) <br>
 </div>
 
 <p align="center"> <img src="https://media.discordapp.net/attachments/1285052232156446740/1316956587470098523/cutie_aeon_-removebg-preview.png?ex=675ceee6&is=675b9d66&hm=d7f9fcf0d1cd6e2354da4916aced7790a44fd1453836c26eed60cf36b926b960&=&format=webp&quality=lossless&width=988&height=700"> </p> 
